@@ -1,0 +1,25 @@
+{
+  "name": "electron_template",
+  "version": "0.0.1",
+  "description": "This is a basic template for developing an electron app",
+  "main": "main.js",
+
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Adriano-97/electron_template.git"
+  },
+  "author": "Adriano Herrera",
+  "license": "MIT",
+  "dependencies": {
+  "electron": "^8.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Adriano-97/electron_template/issues"
+  },
+  "homepage": "https://github.com/Adriano-97/electron_template#readme"
+}
