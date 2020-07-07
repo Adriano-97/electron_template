@@ -16,7 +16,7 @@
   "author": "Adriano Herrera",
   "license": "MIT",
   "dependencies": {
-  "electron": "^8.1.1"
+  "electron": "^8.2.4"
   },
   "bugs": {
     "url": "https://github.com/Adriano-97/electron_template/issues"
